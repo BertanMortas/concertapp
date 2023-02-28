@@ -3,6 +3,7 @@ import './App.css';
 // deneme değişikliği
 
 //seçil değişiklik yaptı
+// bertan değişiklik
 function App() {
   return (
     <div className="App">
