@@ -1,0 +1,17 @@
+{"data": [
+    {
+      "name": "Harry styles",
+      "location": "Ankara",
+      "id": 1
+    },  
+      {
+        "name": "konser 2",
+        "location": "deeneme",
+        "artistName": "deneme",
+        "price": "55",
+        "age": true,
+        "date": "2023-03-03",
+        "id": 14
+      }
+    ]
+}
