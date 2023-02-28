@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 // deneme değişikliği
+
+//seçil değişiklik yaptı
 function App() {
   return (
     <div className="App">
