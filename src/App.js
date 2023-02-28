@@ -4,6 +4,7 @@ import './App.css';
 
 //seçil değişiklik yaptı
 // bertan değişiklik
+// bertan değişiklik 2
 function App() {
   return (
     <div className="App">
